@@ -1,0 +1,8 @@
+payload/
+*.zip
+*.exe
+*.dll
+*.tex
+*.pck
+*.sdat
+.white-album-ua-backup/

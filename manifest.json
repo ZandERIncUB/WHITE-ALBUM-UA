@@ -1,0 +1,118 @@
+{
+  "app_id": 2432110,
+  "version": "0.1.4",
+  "files": [
+    {
+      "path": "WHITE ALBUM Memories like Falling Snow.exe",
+      "original_sha256": "d0369a5a9b50d837508a4e15606421b37787b814880c87c511aa9555c4710286",
+      "original_size": 2603520,
+      "payload_sha256": "bfa32cd2b1afe52a4db6d7fc76e149b4f67ad69d0eb2a8d8071ac6f6f5861c1e",
+      "payload_size": 2606592
+    },
+    {
+      "path": "Data/Game/ENG/AlbumModeParts.pck",
+      "original_sha256": "fa18752e4e190ef3e4e0fc653bca7d5e26800a8818c650c1c0b9cb1242a26716",
+      "original_size": 30205632,
+      "payload_sha256": "b1264b07a94610deae903295c6710a4a8e4ae38ceb0e822324cd3feaa3d1650b",
+      "payload_size": 28985520
+    },
+    {
+      "path": "Data/Game/ENG/Caution_autosave.tex",
+      "original_sha256": "ac76041b7e34d5de3ec8324c1ac263f37051950d7bdab3f89583881c4541ead1",
+      "original_size": 491792,
+      "payload_sha256": "47a2943dc3782fc9c08d1c20b6d2dbd1bdc2354b1c4bf799e787d70079c4de6a",
+      "payload_size": 263392
+    },
+    {
+      "path": "Data/Game/ENG/CautionParts.tex",
+      "original_sha256": "b6da3b742ab61841e6661583dc13a210b151d1a13f1366fc930f713690a6248a",
+      "original_size": 399464,
+      "payload_sha256": "8bf61d27fc15c1b75dd300fd597dc044f935567a80a42330a4fa6ba90ba030d5",
+      "payload_size": 368976
+    },
+    {
+      "path": "Data/Game/ENG/Font.pck",
+      "original_sha256": "40444dad26944b192ad32d511caf10ad628c175cd89cfde2ebc7b648ba89d2d0",
+      "original_size": 50743800,
+      "payload_sha256": "c58c27c915e140be3c62bcb05db2f35bb9170d6c3038ff5d5daa6b8acc157d2d",
+      "payload_size": 50743800
+    },
+    {
+      "path": "Data/Game/ENG/GameParts.tex",
+      "original_sha256": "617dd6dd30f298b1840adc5241cf8fe09f1f6543f0d628cd24d71c0848a5706b",
+      "original_size": 2216848,
+      "payload_sha256": "005c4cd8018a4bd870bcfdf2de14a2c42ae5c8217d2d428214d665ccb49ff268",
+      "payload_size": 1864872
+    },
+    {
+      "path": "Data/Game/ENG/GuideParts.tex",
+      "original_sha256": "44c3eef17acb323ba06958f581735c3298b3674112da3bc56112b3fcb3eca9b6",
+      "original_size": 628800,
+      "payload_sha256": "cea6feb57b1829644820c232909ddf1d4400dcda5cf111f9181649102e996ac3",
+      "payload_size": 516600
+    },
+    {
+      "path": "Data/Game/ENG/MouseSelect.tex",
+      "original_sha256": "6726f907683a5a3f34bcb4560c6d3d6ef10d15c982b49ad118dcf66055a2d71b",
+      "original_size": 189392,
+      "payload_sha256": "7a9aa349d804d065b33ed0654a7221bd338595f3ef5a49c09518eb7e81b1632c",
+      "payload_size": 117952
+    },
+    {
+      "path": "Data/Game/ENG/MoveSelectParts.tex",
+      "original_sha256": "5987734eafa4be48aae5a083ce806105b0c85e9d9a0bda7cf5fb4800091c59e9",
+      "original_size": 17188496,
+      "payload_sha256": "68826de5828f4b74d5aeebde4c4fd935dafd09cc0e6f56bd10d053cb9a211f6c",
+      "payload_size": 16533624
+    },
+    {
+      "path": "Data/Game/ENG/MovieReplayParts.tex",
+      "original_sha256": "7332c2250776bf1090bd279c4a5cd50d60a58b181f04012bbece7f38e6c19280",
+      "original_size": 6781984,
+      "payload_sha256": "e0a7c812025655894fc771623f1fcf95dc4b272ab0e827b3c3b50ec2ff8b2c26",
+      "payload_size": 5824552
+    },
+    {
+      "path": "Data/Game/ENG/MusicModeParts.tex",
+      "original_sha256": "fba55f53eaa4a8e7ae39a231fdc8c802aa7891b5d72c19b38d8b3b8110526fb7",
+      "original_size": 6884696,
+      "payload_sha256": "c2530b1777a57c6a813a3982f9f90f1b21b28087232a7a7c2649d32107f65d9c",
+      "payload_size": 5637016
+    },
+    {
+      "path": "Data/Game/ENG/OptionParts.tex",
+      "original_sha256": "933a8cbd12a40da297a0228c2a4b2c242a8418eba75bc0b2bd23fdc0115871f2",
+      "original_size": 1824520,
+      "payload_sha256": "c6bda1d6049debd3bac44b16cb63a320a4d5ba4bc9cdae948b1cf126fda2f72f",
+      "payload_size": 1583304
+    },
+    {
+      "path": "Data/Game/ENG/SaveLoad.tex",
+      "original_sha256": "5241eb53b681532d39a259c96f8869a9ccc25d8d75a3fb162df4340300e51b93",
+      "original_size": 1375600,
+      "payload_sha256": "2277e3ef9aebab5deac7258d1a90d944b0e7d27de40950c0fffd6472f7f16a3e",
+      "payload_size": 1178448
+    },
+    {
+      "path": "Data/Game/ENG/Script.sdat",
+      "original_sha256": "a9e886efad32dbd2960030713986739424e2480b4c38da781d6b2446f0232f87",
+      "original_size": 3452992,
+      "payload_sha256": "76247f68267dc62f88ef345faf33e23178421ceb0b7f67d5424e96ea5d265d24",
+      "payload_size": 4557248
+    },
+    {
+      "path": "Data/Game/ENG/TitleParts.tex",
+      "original_sha256": "b9d8b067a85d918ec8ca21a71e1c7a79287b927c32add36d213763e675a5cbeb",
+      "original_size": 11946448,
+      "payload_sha256": "6f4c19e99610725fcdcfc3419cd3d83cc135c4a41f2b6ccf88ea60426c57e59f",
+      "payload_size": 10862504
+    },
+    {
+      "path": "Data/Game/ENG/VoiceMessageParts.pck",
+      "original_sha256": "c06f2ff825c978cd8622a3c75563283e6eb5a1f23f05a8009b07b9f6d4cfde34",
+      "original_size": 20787296,
+      "payload_sha256": "44fbcc9aecd226c3605b469a17d0dda4bf8934fce9648fca60d035110e18e2e5",
+      "payload_size": 20490592
+    }
+  ]
+}
